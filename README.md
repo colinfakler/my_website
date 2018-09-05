@@ -1,5 +1,4 @@
 # my_website
-# my_website
 
 
 <HTML>
@@ -8,7 +7,7 @@
         </HEAD>
         <BODY>
                 Hello World!
-                <h1><font color="blue"><i>Assignment 1</font></i></h1>
+                <h1><font color="blue"><i>Assignment 1</i></font></h1>
                 <p>My name is Colin Fakler.</p>
                 <p>In my free time, I go bowling.</p>
                 <p>I am a <b>Data Science</b> major at <font
